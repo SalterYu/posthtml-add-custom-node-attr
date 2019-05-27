@@ -8,7 +8,7 @@
 <h2 align="center">Install</h2>
 
 ```bash
-npm i -D posthtml-add-custom-node-attr
+npm i -D posthtml-add-node-custom-attr
 ```
 
 <h2 align="center">Usage</h2>
@@ -16,7 +16,7 @@ npm i -D posthtml-add-custom-node-attr
 ```js
 var posthtml = require('posthtml');
 
-const plugin = require('./src/posthtml-add-custom-node-attr')
+const plugin = require('posthtml-add-node-custom-attr')
 const html = `
 <tag-name src="123" id="a" class="tagName asd" data-item="{a:1}" style="color: blue;"></tag-name>
 `

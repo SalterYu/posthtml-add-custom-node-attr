@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/SalterYu/posthtml-add-custom-node-attr.git"
+    "url": "git+ssh://git@github.com/SalterYu/posthtml-add-node-custom-attr.git"
   },
   "dependencies": {
     "lodash": "^4.17.11"
@@ -20,7 +20,7 @@
   "author": "SalterYu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SalterYu/posthtml-add-custom-node-attr/issues"
+    "url": "https://github.com/SalterYu/posthtml-add-node-custom-attr/issues"
   },
-  "homepage": "https://github.com/SalterYu/posthtml-add-custom-node-attr#readme"
+  "homepage": "https://github.com/SalterYu/posthtml-add-node-custom-attr#readme"
 }
