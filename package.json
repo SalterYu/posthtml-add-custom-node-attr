@@ -1,6 +1,6 @@
 {
   "name": "posthtml-add-node-custom-attr",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A postHtml plugin to add custom attr for the node",
   "main": "lib",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/SalterYu/posthtml-add-node-custom-attr.git"
+    "url": "git+ssh://git@github.com/SalterYu/posthtml-add-custom-node-attr.git"
   },
   "dependencies": {
     "lodash": "^4.17.11"
@@ -20,7 +20,7 @@
   "author": "SalterYu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SalterYu/posthtml-add-node-custom-attr/issues"
+    "url": "https://github.com/SalterYu/posthtml-add-custom-node-attr/issues"
   },
-  "homepage": "https://github.com/SalterYu/posthtml-add-node-custom-attr#readme"
+  "homepage": "https://github.com/SalterYu/posthtml-add-custom-node-attr"
 }
